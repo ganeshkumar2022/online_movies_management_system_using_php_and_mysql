@@ -1,0 +1,29 @@
+.myheadernav
+{
+    position:relative;
+    height:100px;
+    background-color:rgb(1,17,47);
+}
+.header_logo
+{
+    height:100px;
+    width:200px;
+    position:absolute;
+    top:0px;
+    left:100px;
+    border-bottom-left-radius:12px;
+    border-bottom-right-radius:12px;
+}
+.ahov:hover
+{
+    color:rgb(151,211,249);
+}
+.ahov
+{
+    color:white !important;
+}
+.hpo
+{
+    display:inline-block;
+    width:50px;
+}
